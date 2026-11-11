@@ -1,0 +1,11 @@
+{
+  "name": "atdumich-local",
+  "private": true,
+  "scripts": {
+    "start": "NO_UPDATE_CHECK=1 serve site -l 8000",
+    "update": "node tools/mirror.mjs"
+  },
+  "devDependencies": {
+    "serve": "14.2.4"
+  }
+}

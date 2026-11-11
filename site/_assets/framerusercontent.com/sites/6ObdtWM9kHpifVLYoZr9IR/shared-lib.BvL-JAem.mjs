@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`The University of Michigan's professional multidisciplinary design fraternity`,favicon:`/_assets/framerusercontent.com/assets/RK5lmXbS0Fivb0FSM5VOvBWGo.png`,robots:`max-image-preview:large`,title:`Alpha Theta Delta - University of Michigan Chapter`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.BvL-JAem.mjs.map
